@@ -10,11 +10,11 @@
 <p align="left">
   - 🔭 Şu anda yapay zeka destekli bir <strong>kişisel planlayıcı</strong> üzerinde çalışıyorum: <a href="https://github.com/iMeteorito41/KisiselPlanlayici"><strong>KisiselPlanlayıcı</strong></a>
   <br>
-  - 🌱 Python, Veri Bilimi ve Makine Öğrenmesi alanlarında kendimi geliştiriyorum.
+  - 🎮 <strong>Minecraft</strong> için <strong>Java</strong> diliyle eklentiler (plugin) geliştiriyorum.
   <br>
-  - 💬 Bana backend teknolojileri, Linux ve otomasyon hakkında sorular sorabilirsin.
+  - 🌱 Backend teknolojileri, Veri Bilimi ve otomasyon alanlarında kendimi geliştiriyorum.
   <br>
-  - 📫 Bana ulaşmak için aşağıdaki sosyal medya hesaplarımı kullanabilirsin.
+  - 💬 Bana Java, Python, Linux ve oyun geliştirme hakkında sorular sorabilirsin.
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 🤝 Benimle Bağlantı Kur
 
 <p align="center">
-  <a href="https://linkedin.com/in/bora serkan karasaçlı" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="bora-serkan-karasaçlı-linkedin" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/..." target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bora-serkan-karasaçlı-linkedin" height="40" width="40" /></a>
   <a href="https://instagram.com/boraserkankrscl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boraserkankrscl" height="40" width="40" /></a>
   <a href="https://discord.gg/imeteorito" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imeteorito" height="40" width="40" /></a>
 </p>
@@ -32,6 +32,7 @@
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
